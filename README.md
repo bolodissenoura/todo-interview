@@ -25,6 +25,7 @@ The technical interview lasts 1 hour and it embraces theorical questions in one 
 - Virtual dom vs Real Dom
 
 [Click here to see the full page about React concepts](https://github.com/bolodissenoura/todo-interview/blob/main/react-core-concepts.md)
+<br/><br/>
 [Click here to see a to-do app using React + useReducer](https://stackblitz.com/edit/vitejs-vite-hwitby?file=README.md)
 
 ### html css javascript es6
@@ -33,5 +34,6 @@ The technical interview lasts 1 hour and it embraces theorical questions in one 
 - React Hook concepts
 
 ### Redux concepts
-[Click here to see the full page about Redux concepts](https://github.com/bolodissenoura/todo-interview/blob/main/redux-concepts.md)
+[Click here to see the full page about Redux concepts](https://github.com/bolodissenoura/todo-interview/blob/main/redux-concepts.md) 
+<br/><br/>
 [Click here to see a to-do app using Redux + React + Typescript](https://stackblitz.com/edit/vitejs-vite-qas5hx?file=README.md)
