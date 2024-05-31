@@ -30,14 +30,5 @@ The technical interview lasts 1 hour and it embraces theorical questions in one 
 - React Hook concepts
 
 ### Redux concepts
-[] - Toolkit
-[] - Thunk
-[] - Reducer
-[] - Store
-[] - Provider
-[] - Common
-[] - actions
-[] - Slices
-[] - dispatch
-[] - saga
+[Click here to see the full page about Redux](https://website-name.com)
 

@@ -1,7 +1,8 @@
 ### Redux concepts
 [x] - Toolkit
 [x] - Store
-[] - Reducer
+[x] - Reducer
+[x] - useSelector
 [] - dispatch
 [] - Provider
 [] - Common
@@ -30,4 +31,11 @@
 - As the name explains, the Store is to ... STORE things ( wow );
 - Is a common place for all our application's state;
 
-#### 
+#### Reducer
+- The Reducers are functions that take the `state` and `action` as arguments and determinate how the `state` of an context should change whenever a `action` is called;
+- And retrun a new `state` result;
+- The Reducers are responsible for manipulating the `state` directly;
+
+#### useSelector
+- useSelector ( as the `use` mention ) is a hook, that redux provide us, to access the state and read the data of an state;
+
