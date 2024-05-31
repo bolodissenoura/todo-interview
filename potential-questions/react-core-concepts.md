@@ -41,5 +41,7 @@ You just need to componentize this `<Button />` and use it whenever you want. Ma
 - And after version 16 of React, we have now the Hooks. And we use Hooks in every contexts on our application.
 - Hook is a function. A special function. We can create our own Hooks to handle with intern logics that repeats at the app and we commonly use the default Hooks created by React. They are `useState`, `useEffect`, `useMemo`, `useRef`, `useReducer`
 
+- For explain `useReducer` I made a to-do app that you can see right here: https://stackblitz.com/edit/vitejs-vite-hwitby?file=src%2FApp.jsx
+
 
 
