@@ -22,7 +22,7 @@ The technical interview lasts 1 hour and it embraces theorical questions in one 
 - Interaction with REST API concepts and the best way to handle with HTTP Requests Management;
 - Advantages of React
 - Props vs States
-- Viertual dom vs Real Dom
+- Virtual dom vs Real Dom
 
 ### html css javascript es6
 - Javascript concepts
