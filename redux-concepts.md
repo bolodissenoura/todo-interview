@@ -1,15 +1,18 @@
 ### Redux concepts
-[x] - Toolkit
-[x] - Store
-[x] - Reducer
-[x] - useSelector
-[] - dispatch
-[] - Provider
-[] - Common
-[] - actions
-[] - Slices
-[] - saga
-[] - Thunk ( Middewares )
+- [x] - Toolkit
+- [x] - Store
+- [x] - Reducer
+- [x] - useSelector
+- [x] - dispatch
+- [x] - Provider
+- [x] - Common
+- [x] - actions
+- [] - Slices
+- [] - saga
+- [] - Thunk ( Middewares )
+
+
+### Click here to see a TO-DO app using Redux https://stackblitz.com/edit/vitejs-vite-qas5hx?file=src%2Fcomponents%2FTodoItem.tsx
 
 
 > When use Redux?
