@@ -15,6 +15,8 @@ and how confident you are in writing the code
 The technical interview lasts 1 hour and it embraces theorical questions in one part, and the other part is writing code."
 
 
+React + Redux + Typescript todo-app https://stackblitz.com/edit/todo-redux-daniellimae
+
 ### React core concepts
 
 - Class vs functional components;
