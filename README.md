@@ -28,7 +28,7 @@ React + Redux + Typescript todo-app https://stackblitz.com/edit/todo-redux-danie
 
 [Click here to see the full page about React concepts](https://github.com/bolodissenoura/todo-interview/blob/main/react-core-concepts.md)
 <br/><br/>
-[Click here to see a to-do app using React + useReducer](https://stackblitz.com/edit/vitejs-vite-hwitby?file=README.md)
+[Click here to see a to-do app using React + useReducer](https://stackblitz.com/edit/todo-redux-daniellimae)
 
 ### html css javascript es6
 - Javascript concepts
@@ -37,5 +37,6 @@ React + Redux + Typescript todo-app https://stackblitz.com/edit/todo-redux-danie
 
 ### Redux concepts
 [Click here to see the full page about Redux concepts](https://github.com/bolodissenoura/todo-interview/blob/main/redux-concepts.md) 
+
 <br/><br/>
 [Click here to see a to-do app using Redux + React + Typescript](https://stackblitz.com/edit/vitejs-vite-qas5hx?file=README.md)
